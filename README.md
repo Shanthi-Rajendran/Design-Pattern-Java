@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/39239507/98028500-33230d80-1e34-11eb-810e-f498e87dc54c.png" width="100%"><br/>
-## :question: Design pattern <hr>
+## :question: Design pattern 
 A reusable solution to a commonly occurring problem in software development.
 
 #### Imagine :thought_balloon:
@@ -21,7 +21,7 @@ Similarly design pattern is nothing but some predefined solution (**Formula**) f
 - Never force a design pattern to a problem statement if not applicable
 - Think and apply in a suitable places , it will definitely be your savior
  
-## :dizzy: Types of Design Pattern <hr>
+## :dizzy: Types of Design Pattern 
 - Creational 
 - Behavioural
 - Structural
