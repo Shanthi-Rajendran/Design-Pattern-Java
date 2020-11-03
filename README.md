@@ -13,7 +13,7 @@ Obviously, using the formula ,<br/>
 ##### Imagine :thought_balloon: 
 
 Your question was something like "**Given the value of radius = 5m , find the area of circle without the help of a formula**". <br/>
-In this scenario you are suppose to derive the formula by yourself and then solve the problem.
+In this scenario you are suppose to derive a formula by yourself and then solve the problem.
 
 Similarly design pattern is nothing but some predefined solution (**Formula**) for some **commonly occuring problem** during development.
 
